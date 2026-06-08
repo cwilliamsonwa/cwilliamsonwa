@@ -22,4 +22,4 @@
 - ✉️ carter@williamsonautomationllc.com
 - 📍 Greene, NY · Chenango County
 
-<sub>17 · building in Greene, NY.</sub>
+<sub>Building in Greene, NY · Chenango County.</sub>
